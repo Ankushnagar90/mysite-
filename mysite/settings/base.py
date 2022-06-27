@@ -277,3 +277,8 @@ SOCIAL_AUTH_GITHUB_SECRET = '361e1f311ff828b8c5135860b5caffb402c549d6'
 # SOCIAL_AUTH_LOGIN_ERROR_URL = '/settings/'
 # SOCIAL_AUTH_LOGIN_REDIRECT_URL = '/settings/'
 # SOCIAL_AUTH_RAISE_EXCEPTIONS = False
+
+
+
+
+#master branch changes************************
